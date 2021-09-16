@@ -1,0 +1,7 @@
+# Default ignored files
+/tmp/
+*_old
+*_backup
+*.tmp
+*_bkp*.txt
+/.idea
